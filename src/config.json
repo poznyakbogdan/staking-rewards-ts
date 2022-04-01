@@ -1,0 +1,30 @@
+{
+    "accounts": {
+        "mintAuth": {
+            "pk": "9gXyVADNKxpoMqZA4yYrVinvhm37z9da9YZcLUk9cWQU",
+            "seed": "grace hole trust creek brick cheese shoe pen act else lucky shallow",
+            "skPath": "/Users/poznyakbogdan/Projects/solana/setup-env/src/setup/assets/mint-auth.json"
+        },
+        "freezeAuth": {
+            "pk": "8k3YbnKASQJCJwL4A2fFN5u8ZmnaDcRWETzAkiksv5Wq",
+            "seed": "sketch ride spray panel mirror dune change time ride fork taxi siege",
+            "skPath": "/Users/poznyakbogdan/Projects/solana/setup-env/src/setup/assets/freeze-auth.json"
+        },
+        "alice": {
+            "pk": "CJLXXF2MDUTUqAFiJptAgNAPtYXQ8m7o7JB3tRtk8itg",
+            "seed": "fox reform dolphin typical twenty note slot bitter sunset skull elevator useless",
+            "skPath": "/Users/poznyakbogdan/Projects/solana/setup-env/src/setup/assets/alice.json"
+        },
+        "bob": {
+            "pk": "DMGnoiD8tiTQxpfRfYtCZKywqe5Lqa2VJSYzMyu2jWtG",
+            "seed": "author coffee oil museum fence spider release add sing ecology various muscle",
+            "skPath": "/Users/poznyakbogdan/Projects/solana/setup-env/src/setup/assets/bob.json"
+        },
+        "stakingAuth": {
+            "pk": "CKhQPUqBTZhLnuFm1ciz3ma5faVJtkdR3vrFKRVMBy2",
+            "seed": "vacant occur tired snap edge sock dream nasty siren over rifle close",
+            "skPath": "/Users/poznyakbogdan/Projects/solana/setup-env/src/setup/assets/staking-auth.json"
+        }
+    },
+    "stakingProgramId": "5oH5SPyyF3GThmnpvcGai1wLLFoUMprbwQ7SErz5DGCq"
+}
